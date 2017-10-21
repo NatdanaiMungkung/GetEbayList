@@ -1,0 +1,9 @@
+D:\IT-Hotel\GetEbayList\GetEbayList\GetEbayList\bin\Debug\GetEbayList.exe.config
+D:\IT-Hotel\GetEbayList\GetEbayList\GetEbayList\bin\Debug\GetEbayList.exe
+D:\IT-Hotel\GetEbayList\GetEbayList\GetEbayList\bin\Debug\GetEbayList.pdb
+D:\IT-Hotel\GetEbayList\GetEbayList\GetEbayList\bin\Debug\HtmlAgilityPack.dll
+D:\IT-Hotel\GetEbayList\GetEbayList\GetEbayList\bin\Debug\HtmlAgilityPack.pdb
+D:\IT-Hotel\GetEbayList\GetEbayList\GetEbayList\bin\Debug\HtmlAgilityPack.xml
+D:\IT-Hotel\GetEbayList\GetEbayList\GetEbayList\obj\Debug\GetEbayList.csprojResolveAssemblyReference.cache
+D:\IT-Hotel\GetEbayList\GetEbayList\GetEbayList\obj\Debug\GetEbayList.exe
+D:\IT-Hotel\GetEbayList\GetEbayList\GetEbayList\obj\Debug\GetEbayList.pdb
