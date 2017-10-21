@@ -1,0 +1,8 @@
+D:\IT-Hotel\SendEmailToBuyer\SendEmailToBuyer\bin\Debug\SendEmailToBuyer.exe.config
+D:\IT-Hotel\SendEmailToBuyer\SendEmailToBuyer\bin\Debug\SendEmailToBuyer.exe
+D:\IT-Hotel\SendEmailToBuyer\SendEmailToBuyer\bin\Debug\SendEmailToBuyer.pdb
+D:\IT-Hotel\SendEmailToBuyer\SendEmailToBuyer\obj\Debug\SendEmailToBuyer.exe
+D:\IT-Hotel\SendEmailToBuyer\SendEmailToBuyer\obj\Debug\SendEmailToBuyer.pdb
+D:\IT-Hotel\SendEmailToBuyer\SendEmailToBuyer\obj\Debug\Interop.ADODB.dll
+D:\IT-Hotel\SendEmailToBuyer\SendEmailToBuyer\obj\Debug\Interop.CDO.dll
+D:\IT-Hotel\SendEmailToBuyer\SendEmailToBuyer\obj\Debug\SendEmailToBuyer.csproj.ResolveComReference.cache
